@@ -1,17 +1,9 @@
-# Helpful Tips
+# About Project
 
-- **Increase Editor/Terminal Font Size**:
+This is a starter project for working on an interview problem statement of Tarkashilpa Technologies.
 
-  1. Click the settings icon in the editor.
-  2. Go to _User Settings_.
-  3. Search for `fontSize`.
-  4. Set to `16` for better readability.
-
-- **Preview in seperate tab**:
-
-  - Open the preview in a separate browser tab (via the arrow button on the top-right of the preview window) for a full-screen experience.
-  - Any change in code would trigger auto reload in preview tab
-
-- **Inspect Your Work**:
-
-  - You may use Chrome Developer Tools to inspect your **own preview output**, just as you would with any other web project.
+This project is pre-installed with
+- Bootstrap
+- Phosphor Icons= https://phosphoricons.com
+- Font required for the project
+- Required content and images for building the problem statement
